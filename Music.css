@@ -3,13 +3,7 @@
   padding: 0%;
   box-sizing: border-box;
   font-size: 62.5%;
-  font-family: "sans";
-}
-
-/* -----------Font Change----------------- */
-@font-face {
-  font-family: "sans";
-  src: url(font/sans.ttf);
+  font-family: "Courier New";
 }
 
 .main_div {
